@@ -15,10 +15,8 @@ Hello I am Ana  👋
 
 ## CONTACTO
 ✉️ [Email](mailto:diz.bermejo.ana@gmail.com?subject=[GitHub])
-[LinkedIn](https://www.linkedin.com/in/camilla-bachna)
-- 
-📌LINKEDIN
-[LinkedIn](https://www.linkedin.com/in/ana-diz-bermejo)  
+
+📌[LinkedIn](https://www.linkedin.com/in/ana-diz-bermejo)  
    
    
 
