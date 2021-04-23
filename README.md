@@ -9,7 +9,7 @@ Hello I am Ana  👋
 💻 Soy desarrolladora Junior Front-End
 
 
-🔧 TECNOLOGIAS JavaScript || React || Bootstrap|| HTML|| CSS|| SASS || Node.js || Git || GitHub ||Markdown || Visual Studio Code || Postman
+🔧 TECNOLOGIAS JavaScript || React || Bootstrap|| HTML|| CSS|| SASS || Node.js || Git || GitHub  || Visual Studio Code || Postman
 
 
 
